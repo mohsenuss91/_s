@@ -12,7 +12,7 @@
  * @since _s 1.0
  */
 
-get_header(); ?>
+get_headers(); ?>
 
 		<div id="primary" class="site-content">
 			<div id="content" role="main">
